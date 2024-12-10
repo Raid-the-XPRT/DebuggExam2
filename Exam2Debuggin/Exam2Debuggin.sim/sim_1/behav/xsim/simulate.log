@@ -1,0 +1,3 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+$finish called at time : 205 ns : File "/home/cenema/Exam2Debuggin/Exam2Debuggin.srcs/sim_1/new/t1_sim.sv" Line 68
